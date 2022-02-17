@@ -1,0 +1,2 @@
+.Count{margin:200px auto;position:relative;width:400px;height:200px;padding:20px;background-color:beige;border:1px solid #000;border-radius:10px;font-family:"Segoe UI",Tahoma,Geneva,Verdana,sans-serif}.Count__title{text-align:center}.Count__buttons{display:flex;flex-direction:column;width:200px;position:absolute;left:50%;-webkit-transform:translate(-50%);transform:translate(-50%);grid-gap:10px;gap:10px}.Count__button{font-family:inherit;border-radius:5px}.Count__button--clear{position:absolute;left:10px;bottom:10px}
+/*# sourceMappingURL=main.0c52d3b9.chunk.css.map */
